@@ -4,12 +4,18 @@
 - name: dec a11y
   color: "5319e7"
   description: Capítulo declaração de acessibilidade
+- name: testes usabilidade
+  color: "5319e7"
+  description: Capítulo testes de usabilidade
 - name: melhoria
   color: "fbca04"
   description: OK, mas pode melhorar
 - name: N/A
   color: "c2e0c6"
   description: Requisito Não Aplicável
+- name: corrigido
+  color: "c2e0c6"
+  description: Requisito Corrigido  
 - name: NOK
   color: "b60205"
   description: Requisito Não Conforme
@@ -28,9 +34,6 @@
 - name: R 1.3
   color: "0052cc"
   description: Requisito 1.3
-- name: R 10.1
-  color: "0052cc"
-  description: Requisito 10.1
 - name: R 2.1
   color: "0052cc"
   description: Requisito 2.1
@@ -88,9 +91,6 @@
 - name: R 7.2
   color: "0052cc"
   description: Requisito 7.2
-- name: R 7.3
-  color: "0052cc"
-  description: Requisito 7.3
 - name: R 7.3
   color: "0052cc"
   description: Requisito 7.3
