@@ -3,6 +3,7 @@ app: "Museu do Douro App IOS"          # Entre as aspas escreve o nome da app
 date: "17/08/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://apps.apple.com/pt/app/museu-do-douro/id1410820967"   # Entre as aspas escreve o endereço da app na loja
 a11y_statement: "https://www.museudodouro.pt/access-ios" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
+a11y_statement_date: "31/08/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "Museu do Douro"         # Entre as aspas escrever o nome do owner da app
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "01/09/2026 a 01/09/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
